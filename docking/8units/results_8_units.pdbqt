@@ -1,0 +1,648 @@
+REMARK VINA RESULT:    -5.220      0.000      0.000
+REMARK INTER + INTRA:         -20.218
+REMARK INTER:                 -11.935
+REMARK INTRA:                  -8.283
+REMARK UNBOUND:                -8.283
+REMARK  22 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3 
+REMARK    2  A    between atoms: C4_4  and  C5_5 
+REMARK    3  A    between atoms: C5_5  and  C6_6 
+REMARK    4  A    between atoms: C6_6  and  C8_8 
+REMARK    5  A    between atoms: C11_11  and  C9_9 
+REMARK    6  A    between atoms: C11_11  and  C12_12 
+REMARK    7  A    between atoms: C12_12  and  C13_13 
+REMARK    8  A    between atoms: C14_14  and  C16_16 
+REMARK    9  A    between atoms: C16_16  and  C17_17 
+REMARK   10  A    between atoms: C17_17  and  C18_18 
+REMARK   11  A    between atoms: C19_19  and  C21_21 
+REMARK   12  A    between atoms: C21_21  and  C22_22 
+REMARK   13  A    between atoms: C22_22  and  C23_23 
+REMARK   14  A    between atoms: C24_24  and  C26_26 
+REMARK   15  A    between atoms: C26_26  and  C27_27 
+REMARK   16  A    between atoms: C27_27  and  C28_28 
+REMARK   17  A    between atoms: C29_29  and  C31_31 
+REMARK   18  A    between atoms: C31_31  and  C32_32 
+REMARK   19  A    between atoms: C32_32  and  C33_33 
+REMARK   20  A    between atoms: C34_34  and  C36_36 
+REMARK   21  A    between atoms: C36_36  and  C37_37 
+REMARK   22  A    between atoms: C37_37  and  C38_38 
+REMARK viewdock state: V
+HETATM    1  C21 ***     1      59.093  16.245  -0.451  1.00  0.00     0.031 C 
+HETATM    2  C19 ***     1      59.723  15.104   0.206  1.00  0.00    -0.024 C 
+HETATM    3  C18 ***     1      59.184  13.880   0.429  1.00  0.00    -0.087 C 
+HETATM    4  C20 ***     1      60.005  12.828   1.034  1.00  0.00     0.043 C 
+HETATM    5  C17 ***     1      57.796  13.526   0.087  1.00  0.00     0.037 C 
+HETATM    6  C16 ***     1      56.745  13.995   1.133  1.00  0.00     0.031 C 
+HETATM    7  C14 ***     1      55.500  14.416   0.494  1.00  0.00    -0.024 C 
+HETATM    8  C13 ***     1      54.229  14.101   0.848  1.00  0.00    -0.087 C 
+HETATM    9  C15 ***     1      53.137  14.644   0.036  1.00  0.00     0.043 C 
+HETATM   10  C12 ***     1      53.893  13.252   1.998  1.00  0.00     0.037 C 
+HETATM   11  C11 ***     1      52.908  13.929   2.996  1.00  0.00     0.031 C 
+HETATM   12  C9  ***     1      53.593  14.964   3.765  1.00  0.00    -0.024 C 
+HETATM   13  C8  ***     1      53.337  16.293   3.796  1.00  0.00    -0.087 C 
+HETATM   14  C10 ***     1      54.106  17.150   4.707  1.00  0.00     0.043 C 
+HETATM   15  C6  ***     1      52.312  16.948   2.966  1.00  0.00     0.037 C 
+HETATM   16  C5  ***     1      52.757  18.321   2.376  1.00  0.00     0.031 C 
+HETATM   17  C4  ***     1      53.171  18.233   0.979  1.00  0.00    -0.024 C 
+HETATM   18  C3  ***     1      54.426  18.055   0.498  1.00  0.00    -0.088 C 
+HETATM   19  C7  ***     1      54.645  18.002  -0.950  1.00  0.00     0.043 C 
+HETATM   20  C2  ***     1      55.620  17.908   1.345  1.00  0.00     0.029 C 
+HETATM   21  C1  ***     1      56.236  19.263   1.764  1.00  0.00     0.010 C 
+HETATM   22  C22 ***     1      59.215  17.582   0.340  1.00  0.00     0.037 C 
+HETATM   23  C23 ***     1      59.153  18.768  -0.543  1.00  0.00    -0.087 C 
+HETATM   24  C24 ***     1      59.990  19.837  -0.470  1.00  0.00    -0.024 C 
+HETATM   25  C25 ***     1      58.103  18.760  -1.570  1.00  0.00     0.043 C 
+HETATM   26  C26 ***     1      61.079  20.092   0.473  1.00  0.00     0.031 C 
+HETATM   27  C27 ***     1      61.864  21.399   0.173  1.00  0.00     0.037 C 
+HETATM   28  C28 ***     1      63.300  21.164  -0.059  1.00  0.00    -0.087 C 
+HETATM   29  C29 ***     1      63.829  20.839  -1.264  1.00  0.00    -0.024 C 
+HETATM   30  C30 ***     1      64.186  21.293   1.102  1.00  0.00     0.043 C 
+HETATM   31  C31 ***     1      63.131  20.676  -2.535  1.00  0.00     0.031 C 
+HETATM   32  C32 ***     1      63.367  19.261  -3.137  1.00  0.00     0.037 C 
+HETATM   33  C33 ***     1      62.257  18.319  -2.908  1.00  0.00    -0.087 C 
+HETATM   34  C34 ***     1      62.269  17.370  -1.943  1.00  0.00    -0.024 C 
+HETATM   35  C35 ***     1      61.085  18.449  -3.777  1.00  0.00     0.043 C 
+HETATM   36  C36 ***     1      63.341  17.085  -1.001  1.00  0.00     0.031 C 
+HETATM   37  C37 ***     1      62.847  17.060   0.472  1.00  0.00     0.037 C 
+HETATM   38  C38 ***     1      63.538  16.041   1.283  1.00  0.00    -0.088 C 
+HETATM   39  C39 ***     1      64.258  16.336   2.390  1.00  0.00    -0.029 C 
+HETATM   40  C41 ***     1      64.454  17.654   2.969  1.00  0.00     0.036 C 
+HETATM   41  C40 ***     1      63.412  14.644   0.849  1.00  0.00     0.043 C 
+ENDMDL
+REMARK VINA RESULT:    -5.103      2.772      7.281
+REMARK INTER + INTRA:         -19.949
+REMARK INTER:                 -12.037
+REMARK INTRA:                  -7.911
+REMARK UNBOUND:                -8.283
+REMARK  22 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3 
+REMARK    2  A    between atoms: C4_4  and  C5_5 
+REMARK    3  A    between atoms: C5_5  and  C6_6 
+REMARK    4  A    between atoms: C6_6  and  C8_8 
+REMARK    5  A    between atoms: C11_11  and  C9_9 
+REMARK    6  A    between atoms: C11_11  and  C12_12 
+REMARK    7  A    between atoms: C12_12  and  C13_13 
+REMARK    8  A    between atoms: C14_14  and  C16_16 
+REMARK    9  A    between atoms: C16_16  and  C17_17 
+REMARK   10  A    between atoms: C17_17  and  C18_18 
+REMARK   11  A    between atoms: C19_19  and  C21_21 
+REMARK   12  A    between atoms: C21_21  and  C22_22 
+REMARK   13  A    between atoms: C22_22  and  C23_23 
+REMARK   14  A    between atoms: C24_24  and  C26_26 
+REMARK   15  A    between atoms: C26_26  and  C27_27 
+REMARK   16  A    between atoms: C27_27  and  C28_28 
+REMARK   17  A    between atoms: C29_29  and  C31_31 
+REMARK   18  A    between atoms: C31_31  and  C32_32 
+REMARK   19  A    between atoms: C32_32  and  C33_33 
+REMARK   20  A    between atoms: C34_34  and  C36_36 
+REMARK   21  A    between atoms: C36_36  and  C37_37 
+REMARK   22  A    between atoms: C37_37  and  C38_38 
+REMARK viewdock state: V
+HETATM    1  C21 ***     1      60.340  18.106   0.960  1.00  0.00     0.031 C 
+HETATM    2  C19 ***     1      60.751  19.502   0.850  1.00  0.00    -0.024 C 
+HETATM    3  C18 ***     1      61.920  19.981   0.355  1.00  0.00    -0.087 C 
+HETATM    4  C20 ***     1      62.119  21.429   0.247  1.00  0.00     0.043 C 
+HETATM    5  C17 ***     1      63.025  19.122  -0.102  1.00  0.00     0.037 C 
+HETATM    6  C16 ***     1      63.108  18.962  -1.646  1.00  0.00     0.031 C 
+HETATM    7  C14 ***     1      62.346  17.805  -2.110  1.00  0.00    -0.024 C 
+HETATM    8  C13 ***     1      61.477  17.735  -3.150  1.00  0.00    -0.087 C 
+HETATM    9  C15 ***     1      60.824  16.451  -3.412  1.00  0.00     0.043 C 
+HETATM   10  C12 ***     1      61.162  18.873  -4.022  1.00  0.00     0.037 C 
+HETATM   11  C11 ***     1      60.004  19.761  -3.480  1.00  0.00     0.031 C 
+HETATM   12  C9  ***     1      60.523  21.036  -2.994  1.00  0.00    -0.024 C 
+HETATM   13  C8  ***     1      59.996  22.273  -3.156  1.00  0.00    -0.087 C 
+HETATM   14  C10 ***     1      60.648  23.420  -2.512  1.00  0.00     0.043 C 
+HETATM   15  C6  ***     1      58.784  22.549  -3.946  1.00  0.00     0.037 C 
+HETATM   16  C5  ***     1      57.462  22.491  -3.120  1.00  0.00     0.031 C 
+HETATM   17  C4  ***     1      57.675  22.090  -1.733  1.00  0.00    -0.024 C 
+HETATM   18  C3  ***     1      57.058  21.090  -1.057  1.00  0.00    -0.088 C 
+HETATM   19  C7  ***     1      57.402  20.846   0.347  1.00  0.00     0.043 C 
+HETATM   20  C2  ***     1      56.038  20.206  -1.643  1.00  0.00     0.029 C 
+HETATM   21  C1  ***     1      56.643  18.977  -2.362  1.00  0.00     0.010 C 
+HETATM   22  C22 ***     1      59.328  17.653  -0.134  1.00  0.00     0.037 C 
+HETATM   23  C23 ***     1      58.356  16.657   0.373  1.00  0.00    -0.087 C 
+HETATM   24  C24 ***     1      58.601  15.326   0.499  1.00  0.00    -0.024 C 
+HETATM   25  C25 ***     1      57.040  17.176   0.768  1.00  0.00     0.043 C 
+HETATM   26  C26 ***     1      59.804  14.573   0.147  1.00  0.00     0.031 C 
+HETATM   27  C27 ***     1      59.638  13.035   0.295  1.00  0.00     0.037 C 
+HETATM   28  C28 ***     1      60.142  12.525   1.582  1.00  0.00    -0.087 C 
+HETATM   29  C29 ***     1      61.457  12.428   1.896  1.00  0.00    -0.024 C 
+HETATM   30  C30 ***     1      59.138  12.100   2.562  1.00  0.00     0.043 C 
+HETATM   31  C31 ***     1      62.605  12.804   1.076  1.00  0.00     0.031 C 
+HETATM   32  C32 ***     1      63.444  13.925   1.752  1.00  0.00     0.037 C 
+HETATM   33  C33 ***     1      63.601  15.137   0.927  1.00  0.00    -0.087 C 
+HETATM   34  C34 ***     1      63.924  16.350   1.434  1.00  0.00    -0.024 C 
+HETATM   35  C35 ***     1      63.405  14.988  -0.517  1.00  0.00     0.043 C 
+HETATM   36  C36 ***     1      64.143  16.691   2.833  1.00  0.00     0.031 C 
+HETATM   37  C37 ***     1      64.889  18.042   3.005  1.00  0.00     0.037 C 
+HETATM   38  C38 ***     1      63.993  19.133   3.427  1.00  0.00    -0.088 C 
+HETATM   39  C39 ***     1      64.265  20.442   3.213  1.00  0.00    -0.029 C 
+HETATM   40  C41 ***     1      65.429  20.985   2.536  1.00  0.00     0.036 C 
+HETATM   41  C40 ***     1      62.747  18.750   4.102  1.00  0.00     0.043 C 
+ENDMDL
+REMARK VINA RESULT:    -4.744      2.767      7.237
+REMARK INTER + INTRA:         -19.129
+REMARK INTER:                 -11.478
+REMARK INTRA:                  -7.651
+REMARK UNBOUND:                -8.283
+REMARK  22 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3 
+REMARK    2  A    between atoms: C4_4  and  C5_5 
+REMARK    3  A    between atoms: C5_5  and  C6_6 
+REMARK    4  A    between atoms: C6_6  and  C8_8 
+REMARK    5  A    between atoms: C11_11  and  C9_9 
+REMARK    6  A    between atoms: C11_11  and  C12_12 
+REMARK    7  A    between atoms: C12_12  and  C13_13 
+REMARK    8  A    between atoms: C14_14  and  C16_16 
+REMARK    9  A    between atoms: C16_16  and  C17_17 
+REMARK   10  A    between atoms: C17_17  and  C18_18 
+REMARK   11  A    between atoms: C19_19  and  C21_21 
+REMARK   12  A    between atoms: C21_21  and  C22_22 
+REMARK   13  A    between atoms: C22_22  and  C23_23 
+REMARK   14  A    between atoms: C24_24  and  C26_26 
+REMARK   15  A    between atoms: C26_26  and  C27_27 
+REMARK   16  A    between atoms: C27_27  and  C28_28 
+REMARK   17  A    between atoms: C29_29  and  C31_31 
+REMARK   18  A    between atoms: C31_31  and  C32_32 
+REMARK   19  A    between atoms: C32_32  and  C33_33 
+REMARK   20  A    between atoms: C34_34  and  C36_36 
+REMARK   21  A    between atoms: C36_36  and  C37_37 
+REMARK   22  A    between atoms: C37_37  and  C38_38 
+REMARK viewdock state: V
+HETATM    1  C21 ***     1      59.640  12.755   1.339  1.00  0.00     0.031 C 
+HETATM    2  C19 ***     1      61.000  12.249   1.499  1.00  0.00    -0.024 C 
+HETATM    3  C18 ***     1      62.157  12.869   1.154  1.00  0.00    -0.087 C 
+HETATM    4  C20 ***     1      63.439  12.234   1.471  1.00  0.00     0.043 C 
+HETATM    5  C17 ***     1      62.211  14.174   0.475  1.00  0.00     0.037 C 
+HETATM    6  C16 ***     1      63.380  15.086   0.944  1.00  0.00     0.031 C 
+HETATM    7  C14 ***     1      63.500  16.279   0.110  1.00  0.00    -0.024 C 
+HETATM    8  C13 ***     1      62.740  17.403   0.140  1.00  0.00    -0.087 C 
+HETATM    9  C15 ***     1      63.055  18.469  -0.814  1.00  0.00     0.043 C 
+HETATM   10  C12 ***     1      61.626  17.604   1.075  1.00  0.00     0.037 C 
+HETATM   11  C11 ***     1      60.508  18.529   0.510  1.00  0.00     0.031 C 
+HETATM   12  C9  ***     1      59.666  19.031   1.592  1.00  0.00    -0.024 C 
+HETATM   13  C8  ***     1      59.719  20.238   2.204  1.00  0.00    -0.087 C 
+HETATM   14  C10 ***     1      58.717  20.566   3.226  1.00  0.00     0.043 C 
+HETATM   15  C6  ***     1      60.729  21.265   1.903  1.00  0.00     0.037 C 
+HETATM   16  C5  ***     1      62.178  20.873   2.326  1.00  0.00     0.031 C 
+HETATM   17  C4  ***     1      62.241  20.278   3.658  1.00  0.00    -0.024 C 
+HETATM   18  C3  ***     1      63.216  19.484   4.164  1.00  0.00    -0.088 C 
+HETATM   19  C7  ***     1      63.093  18.971   5.532  1.00  0.00     0.043 C 
+HETATM   20  C2  ***     1      64.423  19.087   3.423  1.00  0.00     0.029 C 
+HETATM   21  C1  ***     1      64.523  17.560   3.201  1.00  0.00     0.010 C 
+HETATM   22  C22 ***     1      59.307  13.238  -0.103  1.00  0.00     0.037 C 
+HETATM   23  C23 ***     1      58.649  14.564  -0.117  1.00  0.00    -0.087 C 
+HETATM   24  C24 ***     1      59.050  15.623  -0.869  1.00  0.00    -0.024 C 
+HETATM   25  C25 ***     1      57.475  14.717   0.751  1.00  0.00     0.043 C 
+HETATM   26  C26 ***     1      60.193  15.730  -1.775  1.00  0.00     0.031 C 
+HETATM   27  C27 ***     1      59.823  16.287  -3.178  1.00  0.00     0.037 C 
+HETATM   28  C28 ***     1      60.185  17.704  -3.346  1.00  0.00    -0.087 C 
+HETATM   29  C29 ***     1      59.382  18.738  -2.994  1.00  0.00    -0.024 C 
+HETATM   30  C30 ***     1      61.498  17.985  -3.936  1.00  0.00     0.043 C 
+HETATM   31  C31 ***     1      58.056  18.677  -2.386  1.00  0.00     0.031 C 
+HETATM   32  C32 ***     1      57.414  20.089  -2.274  1.00  0.00     0.037 C 
+HETATM   33  C33 ***     1      57.293  20.585  -0.892  1.00  0.00    -0.087 C 
+HETATM   34  C34 ***     1      57.844  21.744  -0.462  1.00  0.00    -0.024 C 
+HETATM   35  C35 ***     1      56.517  19.766   0.042  1.00  0.00     0.043 C 
+HETATM   36  C36 ***     1      58.652  22.676  -1.235  1.00  0.00     0.031 C 
+HETATM   37  C37 ***     1      60.078  22.130  -1.522  1.00  0.00     0.037 C 
+HETATM   38  C38 ***     1      60.458  22.256  -2.939  1.00  0.00    -0.088 C 
+HETATM   39  C39 ***     1      61.714  22.039  -3.394  1.00  0.00    -0.029 C 
+HETATM   40  C41 ***     1      62.863  21.635  -2.603  1.00  0.00     0.036 C 
+HETATM   41  C40 ***     1      59.398  22.629  -3.884  1.00  0.00     0.043 C 
+ENDMDL
+REMARK VINA RESULT:    -4.684      6.941      9.550
+REMARK INTER + INTRA:         -18.990
+REMARK INTER:                 -15.066
+REMARK INTRA:                  -3.925
+REMARK UNBOUND:                -8.283
+REMARK  22 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3 
+REMARK    2  A    between atoms: C4_4  and  C5_5 
+REMARK    3  A    between atoms: C5_5  and  C6_6 
+REMARK    4  A    between atoms: C6_6  and  C8_8 
+REMARK    5  A    between atoms: C11_11  and  C9_9 
+REMARK    6  A    between atoms: C11_11  and  C12_12 
+REMARK    7  A    between atoms: C12_12  and  C13_13 
+REMARK    8  A    between atoms: C14_14  and  C16_16 
+REMARK    9  A    between atoms: C16_16  and  C17_17 
+REMARK   10  A    between atoms: C17_17  and  C18_18 
+REMARK   11  A    between atoms: C19_19  and  C21_21 
+REMARK   12  A    between atoms: C21_21  and  C22_22 
+REMARK   13  A    between atoms: C22_22  and  C23_23 
+REMARK   14  A    between atoms: C24_24  and  C26_26 
+REMARK   15  A    between atoms: C26_26  and  C27_27 
+REMARK   16  A    between atoms: C27_27  and  C28_28 
+REMARK   17  A    between atoms: C29_29  and  C31_31 
+REMARK   18  A    between atoms: C31_31  and  C32_32 
+REMARK   19  A    between atoms: C32_32  and  C33_33 
+REMARK   20  A    between atoms: C34_34  and  C36_36 
+REMARK   21  A    between atoms: C36_36  and  C37_37 
+REMARK   22  A    between atoms: C37_37  and  C38_38 
+REMARK viewdock state: V
+HETATM    1  C21 ***     1      58.362  10.729   3.941  1.00  0.00     0.031 C 
+HETATM    2  C19 ***     1      58.417   9.298   3.660  1.00  0.00    -0.024 C 
+HETATM    3  C18 ***     1      58.188   8.278   4.524  1.00  0.00    -0.087 C 
+HETATM    4  C20 ***     1      58.207   6.898   4.034  1.00  0.00     0.043 C 
+HETATM    5  C17 ***     1      57.904   8.471   5.956  1.00  0.00     0.037 C 
+HETATM    6  C16 ***     1      56.897   7.445   6.548  1.00  0.00     0.031 C 
+HETATM    7  C14 ***     1      57.494   6.666   7.630  1.00  0.00    -0.024 C 
+HETATM    8  C13 ***     1      57.424   6.897   8.966  1.00  0.00    -0.087 C 
+HETATM    9  C15 ***     1      58.123   5.969   9.858  1.00  0.00     0.043 C 
+HETATM   10  C12 ***     1      56.688   8.020   9.558  1.00  0.00     0.037 C 
+HETATM   11  C11 ***     1      56.688   8.003  11.115  1.00  0.00     0.031 C 
+HETATM   12  C9  ***     1      55.647   8.884  11.635  1.00  0.00    -0.024 C 
+HETATM   13  C8  ***     1      54.694   8.605  12.555  1.00  0.00    -0.087 C 
+HETATM   14  C10 ***     1      53.786   9.672  12.994  1.00  0.00     0.043 C 
+HETATM   15  C6  ***     1      54.508   7.277  13.163  1.00  0.00     0.037 C 
+HETATM   16  C5  ***     1      53.328   6.459  12.554  1.00  0.00     0.031 C 
+HETATM   17  C4  ***     1      53.713   5.702  11.367  1.00  0.00    -0.024 C 
+HETATM   18  C3  ***     1      53.570   6.069  10.069  1.00  0.00    -0.088 C 
+HETATM   19  C7  ***     1      54.013   5.159   9.008  1.00  0.00     0.043 C 
+HETATM   20  C2  ***     1      52.988   7.347   9.633  1.00  0.00     0.029 C 
+HETATM   21  C1  ***     1      51.636   7.661  10.316  1.00  0.00     0.010 C 
+HETATM   22  C22 ***     1      59.368  11.579   3.109  1.00  0.00     0.037 C 
+HETATM   23  C23 ***     1      58.690  12.458   2.129  1.00  0.00    -0.087 C 
+HETATM   24  C24 ***     1      59.280  12.996   1.029  1.00  0.00    -0.024 C 
+HETATM   25  C25 ***     1      57.273  12.745   2.385  1.00  0.00     0.043 C 
+HETATM   26  C26 ***     1      60.668  12.887   0.581  1.00  0.00     0.031 C 
+HETATM   27  C27 ***     1      61.435  14.238   0.603  1.00  0.00     0.037 C 
+HETATM   28  C28 ***     1      62.843  14.091   1.009  1.00  0.00    -0.087 C 
+HETATM   29  C29 ***     1      63.685  15.134   1.215  1.00  0.00    -0.024 C 
+HETATM   30  C30 ***     1      63.339  12.723   1.190  1.00  0.00     0.043 C 
+HETATM   31  C31 ***     1      63.390  16.559   1.103  1.00  0.00     0.031 C 
+HETATM   32  C32 ***     1      63.043  16.956  -0.360  1.00  0.00     0.037 C 
+HETATM   33  C33 ***     1      61.667  17.455  -0.535  1.00  0.00    -0.087 C 
+HETATM   34  C34 ***     1      61.035  17.501  -1.732  1.00  0.00    -0.024 C 
+HETATM   35  C35 ***     1      60.965  17.906   0.668  1.00  0.00     0.043 C 
+HETATM   36  C36 ***     1      61.572  17.110  -3.028  1.00  0.00     0.031 C 
+HETATM   37  C37 ***     1      61.561  18.278  -4.052  1.00  0.00     0.037 C 
+HETATM   38  C38 ***     1      62.212  19.493  -3.531  1.00  0.00    -0.088 C 
+HETATM   39  C39 ***     1      61.565  20.671  -3.370  1.00  0.00    -0.029 C 
+HETATM   40  C41 ***     1      60.164  20.934  -3.648  1.00  0.00     0.036 C 
+HETATM   41  C40 ***     1      63.631  19.388  -3.169  1.00  0.00     0.043 C 
+ENDMDL
+REMARK VINA RESULT:    -4.650      3.125      7.691
+REMARK INTER + INTRA:         -18.912
+REMARK INTER:                  -9.873
+REMARK INTRA:                  -9.039
+REMARK UNBOUND:                -8.283
+REMARK  22 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3 
+REMARK    2  A    between atoms: C4_4  and  C5_5 
+REMARK    3  A    between atoms: C5_5  and  C6_6 
+REMARK    4  A    between atoms: C6_6  and  C8_8 
+REMARK    5  A    between atoms: C11_11  and  C9_9 
+REMARK    6  A    between atoms: C11_11  and  C12_12 
+REMARK    7  A    between atoms: C12_12  and  C13_13 
+REMARK    8  A    between atoms: C14_14  and  C16_16 
+REMARK    9  A    between atoms: C16_16  and  C17_17 
+REMARK   10  A    between atoms: C17_17  and  C18_18 
+REMARK   11  A    between atoms: C19_19  and  C21_21 
+REMARK   12  A    between atoms: C21_21  and  C22_22 
+REMARK   13  A    between atoms: C22_22  and  C23_23 
+REMARK   14  A    between atoms: C24_24  and  C26_26 
+REMARK   15  A    between atoms: C26_26  and  C27_27 
+REMARK   16  A    between atoms: C27_27  and  C28_28 
+REMARK   17  A    between atoms: C29_29  and  C31_31 
+REMARK   18  A    between atoms: C31_31  and  C32_32 
+REMARK   19  A    between atoms: C32_32  and  C33_33 
+REMARK   20  A    between atoms: C34_34  and  C36_36 
+REMARK   21  A    between atoms: C36_36  and  C37_37 
+REMARK   22  A    between atoms: C37_37  and  C38_38 
+REMARK viewdock state: V
+HETATM    1  C21 ***     1      58.352  17.920   0.673  1.00  0.00     0.031 C 
+HETATM    2  C19 ***     1      58.167  18.555  -0.628  1.00  0.00    -0.024 C 
+HETATM    3  C18 ***     1      58.736  18.202  -1.808  1.00  0.00    -0.087 C 
+HETATM    4  C20 ***     1      58.360  18.912  -3.032  1.00  0.00     0.043 C 
+HETATM    5  C17 ***     1      59.724  17.119  -1.943  1.00  0.00     0.037 C 
+HETATM    6  C16 ***     1      60.577  17.198  -3.241  1.00  0.00     0.031 C 
+HETATM    7  C14 ***     1      61.934  17.666  -2.966  1.00  0.00    -0.024 C 
+HETATM    8  C13 ***     1      62.430  18.922  -3.102  1.00  0.00    -0.087 C 
+HETATM    9  C15 ***     1      63.840  19.141  -2.769  1.00  0.00     0.043 C 
+HETATM   10  C12 ***     1      61.632  20.065  -3.561  1.00  0.00     0.037 C 
+HETATM   11  C11 ***     1      61.912  21.371  -2.761  1.00  0.00     0.031 C 
+HETATM   12  C9  ***     1      60.846  21.617  -1.795  1.00  0.00    -0.024 C 
+HETATM   13  C8  ***     1      60.828  21.324  -0.473  1.00  0.00    -0.087 C 
+HETATM   14  C10 ***     1      59.673  21.732   0.336  1.00  0.00     0.043 C 
+HETATM   15  C6  ***     1      61.915  20.616   0.222  1.00  0.00     0.037 C 
+HETATM   16  C5  ***     1      61.650  19.093   0.429  1.00  0.00     0.031 C 
+HETATM   17  C4  ***     1      62.683  18.439   1.227  1.00  0.00    -0.024 C 
+HETATM   18  C3  ***     1      63.068  17.140   1.176  1.00  0.00    -0.088 C 
+HETATM   19  C7  ***     1      64.126  16.665   2.073  1.00  0.00     0.043 C 
+HETATM   20  C2  ***     1      62.487  16.143   0.264  1.00  0.00     0.029 C 
+HETATM   21  C1  ***     1      63.534  15.151  -0.295  1.00  0.00     0.010 C 
+HETATM   22  C22 ***     1      57.149  18.098   1.645  1.00  0.00     0.037 C 
+HETATM   23  C23 ***     1      56.850  19.522   1.920  1.00  0.00    -0.087 C 
+HETATM   24  C24 ***     1      57.479  20.282   2.856  1.00  0.00    -0.024 C 
+HETATM   25  C25 ***     1      55.796  20.135   1.101  1.00  0.00     0.043 C 
+HETATM   26  C26 ***     1      58.524  19.898   3.805  1.00  0.00     0.031 C 
+HETATM   27  C27 ***     1      59.891  20.585   3.534  1.00  0.00     0.037 C 
+HETATM   28  C28 ***     1      60.205  21.641   4.511  1.00  0.00    -0.087 C 
+HETATM   29  C29 ***     1      61.298  22.441   4.436  1.00  0.00    -0.024 C 
+HETATM   30  C30 ***     1      59.266  21.814   5.623  1.00  0.00     0.043 C 
+HETATM   31  C31 ***     1      62.340  22.442   3.413  1.00  0.00     0.031 C 
+HETATM   32  C32 ***     1      63.747  22.212   4.034  1.00  0.00     0.037 C 
+HETATM   33  C33 ***     1      64.468  21.056   3.471  1.00  0.00    -0.087 C 
+HETATM   34  C34 ***     1      64.161  19.769   3.761  1.00  0.00    -0.024 C 
+HETATM   35  C35 ***     1      65.563  21.343   2.542  1.00  0.00     0.043 C 
+HETATM   36  C36 ***     1      63.122  19.293   4.663  1.00  0.00     0.031 C 
+HETATM   37  C37 ***     1      63.625  19.153   6.126  1.00  0.00     0.037 C 
+HETATM   38  C38 ***     1      62.922  20.055   7.055  1.00  0.00    -0.088 C 
+HETATM   39  C39 ***     1      61.688  19.799   7.549  1.00  0.00    -0.029 C 
+HETATM   40  C41 ***     1      60.876  18.624   7.282  1.00  0.00     0.036 C 
+HETATM   41  C40 ***     1      63.624  21.282   7.454  1.00  0.00     0.043 C 
+ENDMDL
+REMARK VINA RESULT:    -4.454      1.789      3.390
+REMARK INTER + INTRA:         -18.467
+REMARK INTER:                 -10.776
+REMARK INTRA:                  -7.690
+REMARK UNBOUND:                -8.283
+REMARK  22 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3 
+REMARK    2  A    between atoms: C4_4  and  C5_5 
+REMARK    3  A    between atoms: C5_5  and  C6_6 
+REMARK    4  A    between atoms: C6_6  and  C8_8 
+REMARK    5  A    between atoms: C11_11  and  C9_9 
+REMARK    6  A    between atoms: C11_11  and  C12_12 
+REMARK    7  A    between atoms: C12_12  and  C13_13 
+REMARK    8  A    between atoms: C14_14  and  C16_16 
+REMARK    9  A    between atoms: C16_16  and  C17_17 
+REMARK   10  A    between atoms: C17_17  and  C18_18 
+REMARK   11  A    between atoms: C19_19  and  C21_21 
+REMARK   12  A    between atoms: C21_21  and  C22_22 
+REMARK   13  A    between atoms: C22_22  and  C23_23 
+REMARK   14  A    between atoms: C24_24  and  C26_26 
+REMARK   15  A    between atoms: C26_26  and  C27_27 
+REMARK   16  A    between atoms: C27_27  and  C28_28 
+REMARK   17  A    between atoms: C29_29  and  C31_31 
+REMARK   18  A    between atoms: C31_31  and  C32_32 
+REMARK   19  A    between atoms: C32_32  and  C33_33 
+REMARK   20  A    between atoms: C34_34  and  C36_36 
+REMARK   21  A    between atoms: C36_36  and  C37_37 
+REMARK   22  A    between atoms: C37_37  and  C38_38 
+REMARK viewdock state: V
+HETATM    1  C21 ***     1      56.818  17.028   0.966  1.00  0.00     0.031 C 
+HETATM    2  C19 ***     1      57.585  15.841   0.604  1.00  0.00    -0.024 C 
+HETATM    3  C18 ***     1      57.203  14.544   0.717  1.00  0.00    -0.087 C 
+HETATM    4  C20 ***     1      58.083  13.485   0.219  1.00  0.00     0.043 C 
+HETATM    5  C17 ***     1      55.925  14.122   1.314  1.00  0.00     0.037 C 
+HETATM    6  C16 ***     1      54.769  13.953   0.287  1.00  0.00     0.031 C 
+HETATM    7  C14 ***     1      53.547  13.470   0.926  1.00  0.00    -0.024 C 
+HETATM    8  C13 ***     1      52.397  14.153   1.157  1.00  0.00    -0.087 C 
+HETATM    9  C15 ***     1      51.305  13.445   1.829  1.00  0.00     0.043 C 
+HETATM   10  C12 ***     1      52.192  15.553   0.769  1.00  0.00     0.037 C 
+HETATM   11  C11 ***     1      52.063  16.516   1.986  1.00  0.00     0.031 C 
+HETATM   12  C9  ***     1      53.376  16.781   2.567  1.00  0.00    -0.024 C 
+HETATM   13  C8  ***     1      53.928  16.233   3.675  1.00  0.00    -0.087 C 
+HETATM   14  C10 ***     1      55.305  16.589   4.041  1.00  0.00     0.043 C 
+HETATM   15  C6  ***     1      53.229  15.278   4.551  1.00  0.00     0.037 C 
+HETATM   16  C5  ***     1      52.378  15.950   5.671  1.00  0.00     0.031 C 
+HETATM   17  C4  ***     1      52.825  15.597   7.015  1.00  0.00    -0.024 C 
+HETATM   18  C3  ***     1      53.545  16.360   7.875  1.00  0.00    -0.088 C 
+HETATM   19  C7  ***     1      53.910  15.821   9.188  1.00  0.00     0.043 C 
+HETATM   20  C2  ***     1      54.001  17.727   7.580  1.00  0.00     0.029 C 
+HETATM   21  C1  ***     1      55.526  17.818   7.340  1.00  0.00     0.010 C 
+HETATM   22  C22 ***     1      57.631  18.355   0.900  1.00  0.00     0.037 C 
+HETATM   23  C23 ***     1      57.508  19.028  -0.414  1.00  0.00    -0.087 C 
+HETATM   24  C24 ***     1      58.503  19.719  -1.029  1.00  0.00    -0.024 C 
+HETATM   25  C25 ***     1      56.205  18.916  -1.081  1.00  0.00     0.043 C 
+HETATM   26  C26 ***     1      59.861  19.996  -0.560  1.00  0.00     0.031 C 
+HETATM   27  C27 ***     1      60.832  20.430  -1.692  1.00  0.00     0.037 C 
+HETATM   28  C28 ***     1      62.186  19.873  -1.530  1.00  0.00    -0.087 C 
+HETATM   29  C29 ***     1      62.730  18.950  -2.361  1.00  0.00    -0.024 C 
+HETATM   30  C30 ***     1      62.969  20.362  -0.392  1.00  0.00     0.043 C 
+HETATM   31  C31 ***     1      62.130  18.348  -3.548  1.00  0.00     0.031 C 
+HETATM   32  C32 ***     1      61.643  16.898  -3.268  1.00  0.00     0.037 C 
+HETATM   33  C33 ***     1      60.275  16.819  -2.725  1.00  0.00    -0.087 C 
+HETATM   34  C34 ***     1      59.988  16.353  -1.486  1.00  0.00    -0.024 C 
+HETATM   35  C35 ***     1      59.189  17.289  -3.588  1.00  0.00     0.043 C 
+HETATM   36  C36 ***     1      60.926  15.837  -0.500  1.00  0.00     0.031 C 
+HETATM   37  C37 ***     1      61.388  16.925   0.507  1.00  0.00     0.037 C 
+HETATM   38  C38 ***     1      62.821  16.821   0.834  1.00  0.00    -0.088 C 
+HETATM   39  C39 ***     1      63.395  17.469   1.874  1.00  0.00    -0.029 C 
+HETATM   40  C41 ***     1      62.726  18.332   2.832  1.00  0.00     0.036 C 
+HETATM   41  C40 ***     1      63.640  15.955  -0.023  1.00  0.00     0.043 C 
+ENDMDL
+REMARK VINA RESULT:    -4.287     11.170     16.565
+REMARK INTER + INTRA:         -18.083
+REMARK INTER:                 -11.247
+REMARK INTRA:                  -6.836
+REMARK UNBOUND:                -8.283
+REMARK  22 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3 
+REMARK    2  A    between atoms: C4_4  and  C5_5 
+REMARK    3  A    between atoms: C5_5  and  C6_6 
+REMARK    4  A    between atoms: C6_6  and  C8_8 
+REMARK    5  A    between atoms: C11_11  and  C9_9 
+REMARK    6  A    between atoms: C11_11  and  C12_12 
+REMARK    7  A    between atoms: C12_12  and  C13_13 
+REMARK    8  A    between atoms: C14_14  and  C16_16 
+REMARK    9  A    between atoms: C16_16  and  C17_17 
+REMARK   10  A    between atoms: C17_17  and  C18_18 
+REMARK   11  A    between atoms: C19_19  and  C21_21 
+REMARK   12  A    between atoms: C21_21  and  C22_22 
+REMARK   13  A    between atoms: C22_22  and  C23_23 
+REMARK   14  A    between atoms: C24_24  and  C26_26 
+REMARK   15  A    between atoms: C26_26  and  C27_27 
+REMARK   16  A    between atoms: C27_27  and  C28_28 
+REMARK   17  A    between atoms: C29_29  and  C31_31 
+REMARK   18  A    between atoms: C31_31  and  C32_32 
+REMARK   19  A    between atoms: C32_32  and  C33_33 
+REMARK   20  A    between atoms: C34_34  and  C36_36 
+REMARK   21  A    between atoms: C36_36  and  C37_37 
+REMARK   22  A    between atoms: C37_37  and  C38_38 
+REMARK viewdock state: V
+HETATM    1  C21 ***     1      56.224  16.536  -9.959  1.00  0.00     0.031 C 
+HETATM    2  C19 ***     1      56.845  17.818 -10.276  1.00  0.00    -0.024 C 
+HETATM    3  C18 ***     1      58.099  18.034 -10.747  1.00  0.00    -0.087 C 
+HETATM    4  C20 ***     1      58.518  19.396 -11.088  1.00  0.00     0.043 C 
+HETATM    5  C17 ***     1      59.088  16.963 -10.952  1.00  0.00     0.037 C 
+HETATM    6  C16 ***     1      60.405  17.436 -11.630  1.00  0.00     0.031 C 
+HETATM    7  C14 ***     1      61.506  17.512 -10.674  1.00  0.00    -0.024 C 
+HETATM    8  C13 ***     1      62.703  18.135 -10.822  1.00  0.00    -0.087 C 
+HETATM    9  C15 ***     1      63.656  18.060  -9.712  1.00  0.00     0.043 C 
+HETATM   10  C12 ***     1      63.089  18.876 -12.029  1.00  0.00     0.037 C 
+HETATM   11  C11 ***     1      63.687  17.968 -13.144  1.00  0.00     0.031 C 
+HETATM   12  C9  ***     1      62.976  18.171 -14.402  1.00  0.00    -0.024 C 
+HETATM   13  C8  ***     1      62.227  17.281 -15.096  1.00  0.00    -0.087 C 
+HETATM   14  C10 ***     1      61.531  17.723 -16.311  1.00  0.00     0.043 C 
+HETATM   15  C6  ***     1      62.054  15.874 -14.700  1.00  0.00     0.037 C 
+HETATM   16  C5  ***     1      62.377  14.852 -15.834  1.00  0.00     0.031 C 
+HETATM   17  C4  ***     1      61.398  13.773 -15.922  1.00  0.00    -0.024 C 
+HETATM   18  C3  ***     1      60.356  13.669 -16.782  1.00  0.00    -0.088 C 
+HETATM   19  C7  ***     1      59.469  12.504 -16.708  1.00  0.00     0.043 C 
+HETATM   20  C2  ***     1      60.037  14.668 -17.814  1.00  0.00     0.029 C 
+HETATM   21  C1  ***     1      58.516  14.871 -18.012  1.00  0.00     0.010 C 
+HETATM   22  C22 ***     1      55.843  15.688 -11.208  1.00  0.00     0.037 C 
+HETATM   23  C23 ***     1      54.886  16.388 -12.095  1.00  0.00    -0.087 C 
+HETATM   24  C24 ***     1      55.208  16.974 -13.278  1.00  0.00    -0.024 C 
+HETATM   25  C25 ***     1      53.490  16.429 -11.641  1.00  0.00     0.043 C 
+HETATM   26  C26 ***     1      56.516  17.094 -13.922  1.00  0.00     0.031 C 
+HETATM   27  C27 ***     1      56.795  15.982 -14.971  1.00  0.00     0.037 C 
+HETATM   28  C28 ***     1      57.395  14.774 -14.380  1.00  0.00    -0.087 C 
+HETATM   29  C29 ***     1      56.795  13.558 -14.367  1.00  0.00    -0.024 C 
+HETATM   30  C30 ***     1      58.721  14.925 -13.772  1.00  0.00     0.043 C 
+HETATM   31  C31 ***     1      55.495  13.195 -14.924  1.00  0.00     0.031 C 
+HETATM   32  C32 ***     1      54.392  13.170 -13.827  1.00  0.00     0.037 C 
+HETATM   33  C33 ***     1      54.145  11.835 -13.255  1.00  0.00    -0.087 C 
+HETATM   34  C34 ***     1      53.459  11.629 -12.105  1.00  0.00    -0.024 C 
+HETATM   35  C35 ***     1      54.668  10.686 -13.997  1.00  0.00     0.043 C 
+HETATM   36  C36 ***     1      52.880  12.640 -11.232  1.00  0.00     0.031 C 
+HETATM   37  C37 ***     1      51.386  12.918 -11.554  1.00  0.00     0.037 C 
+HETATM   38  C38 ***     1      50.648  13.452 -10.396  1.00  0.00    -0.088 C 
+HETATM   39  C39 ***     1      50.185  12.677  -9.387  1.00  0.00    -0.029 C 
+HETATM   40  C41 ***     1      50.346  11.239  -9.257  1.00  0.00     0.036 C 
+HETATM   41  C40 ***     1      50.426  14.903 -10.357  1.00  0.00     0.043 C 
+ENDMDL
+REMARK VINA RESULT:    -4.174     11.437     15.796
+REMARK INTER + INTRA:         -17.826
+REMARK INTER:                  -8.281
+REMARK INTRA:                  -9.545
+REMARK UNBOUND:                -8.283
+REMARK  22 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3 
+REMARK    2  A    between atoms: C4_4  and  C5_5 
+REMARK    3  A    between atoms: C5_5  and  C6_6 
+REMARK    4  A    between atoms: C6_6  and  C8_8 
+REMARK    5  A    between atoms: C11_11  and  C9_9 
+REMARK    6  A    between atoms: C11_11  and  C12_12 
+REMARK    7  A    between atoms: C12_12  and  C13_13 
+REMARK    8  A    between atoms: C14_14  and  C16_16 
+REMARK    9  A    between atoms: C16_16  and  C17_17 
+REMARK   10  A    between atoms: C17_17  and  C18_18 
+REMARK   11  A    between atoms: C19_19  and  C21_21 
+REMARK   12  A    between atoms: C21_21  and  C22_22 
+REMARK   13  A    between atoms: C22_22  and  C23_23 
+REMARK   14  A    between atoms: C24_24  and  C26_26 
+REMARK   15  A    between atoms: C26_26  and  C27_27 
+REMARK   16  A    between atoms: C27_27  and  C28_28 
+REMARK   17  A    between atoms: C29_29  and  C31_31 
+REMARK   18  A    between atoms: C31_31  and  C32_32 
+REMARK   19  A    between atoms: C32_32  and  C33_33 
+REMARK   20  A    between atoms: C34_34  and  C36_36 
+REMARK   21  A    between atoms: C36_36  and  C37_37 
+REMARK   22  A    between atoms: C37_37  and  C38_38 
+REMARK viewdock state: V
+HETATM    1  C21 ***     1      61.598  18.339 -16.102  1.00  0.00     0.031 C 
+HETATM    2  C19 ***     1      62.201  17.023 -15.915  1.00  0.00    -0.024 C 
+HETATM    3  C18 ***     1      61.589  15.887 -15.494  1.00  0.00    -0.087 C 
+HETATM    4  C20 ***     1      62.346  14.634 -15.449  1.00  0.00     0.043 C 
+HETATM    5  C17 ***     1      60.178  15.828 -15.078  1.00  0.00     0.037 C 
+HETATM    6  C16 ***     1      59.817  14.570 -14.239  1.00  0.00     0.031 C 
+HETATM    7  C14 ***     1      58.761  13.784 -14.873  1.00  0.00    -0.024 C 
+HETATM    8  C13 ***     1      57.419  13.888 -14.697  1.00  0.00    -0.087 C 
+HETATM    9  C15 ***     1      56.557  12.970 -15.447  1.00  0.00     0.043 C 
+HETATM   10  C12 ***     1      56.790  14.867 -13.802  1.00  0.00     0.037 C 
+HETATM   11  C11 ***     1      55.900  15.901 -14.550  1.00  0.00     0.031 C 
+HETATM   12  C9  ***     1      56.728  16.925 -15.181  1.00  0.00    -0.024 C 
+HETATM   13  C8  ***     1      57.047  17.056 -16.490  1.00  0.00    -0.087 C 
+HETATM   14  C10 ***     1      57.838  18.215 -16.922  1.00  0.00     0.043 C 
+HETATM   15  C6  ***     1      56.640  16.098 -17.531  1.00  0.00     0.037 C 
+HETATM   16  C5  ***     1      57.755  15.783 -18.575  1.00  0.00     0.031 C 
+HETATM   17  C4  ***     1      58.582  14.641 -18.196  1.00  0.00    -0.024 C 
+HETATM   18  C3  ***     1      59.779  14.278 -18.719  1.00  0.00    -0.088 C 
+HETATM   19  C7  ***     1      60.458  13.083 -18.209  1.00  0.00     0.043 C 
+HETATM   20  C2  ***     1      60.467  15.013 -19.791  1.00  0.00     0.029 C 
+HETATM   21  C1  ***     1      61.384  16.140 -19.261  1.00  0.00     0.010 C 
+HETATM   22  C22 ***     1      62.348  19.491 -15.369  1.00  0.00     0.037 C 
+HETATM   23  C23 ***     1      61.451  20.284 -14.498  1.00  0.00    -0.087 C 
+HETATM   24  C24 ***     1      61.853  21.000 -13.415  1.00  0.00    -0.024 C 
+HETATM   25  C25 ***     1      60.027  20.285 -14.859  1.00  0.00     0.043 C 
+HETATM   26  C26 ***     1      63.191  21.130 -12.840  1.00  0.00     0.031 C 
+HETATM   27  C27 ***     1      63.187  21.578 -11.353  1.00  0.00     0.037 C 
+HETATM   28  C28 ***     1      64.288  20.988 -10.573  1.00  0.00    -0.087 C 
+HETATM   29  C29 ***     1      64.146  19.918  -9.752  1.00  0.00    -0.024 C 
+HETATM   30  C30 ***     1      65.605  21.618 -10.708  1.00  0.00     0.043 C 
+HETATM   31  C31 ***     1      62.937  19.144  -9.488  1.00  0.00     0.031 C 
+HETATM   32  C32 ***     1      63.028  17.717 -10.099  1.00  0.00     0.037 C 
+HETATM   33  C33 ***     1      62.605  17.640 -11.509  1.00  0.00    -0.087 C 
+HETATM   34  C34 ***     1      61.309  17.651 -11.902  1.00  0.00    -0.024 C 
+HETATM   35  C35 ***     1      63.664  17.562 -12.517  1.00  0.00     0.043 C 
+HETATM   36  C36 ***     1      60.130  17.712 -11.051  1.00  0.00     0.031 C 
+HETATM   37  C37 ***     1      58.910  16.980 -11.673  1.00  0.00     0.037 C 
+HETATM   38  C38 ***     1      57.689  17.805 -11.662  1.00  0.00    -0.088 C 
+HETATM   39  C39 ***     1      56.543  17.429 -11.047  1.00  0.00    -0.029 C 
+HETATM   40  C41 ***     1      56.325  16.205 -10.297  1.00  0.00     0.036 C 
+HETATM   41  C40 ***     1      57.752  19.098 -12.354  1.00  0.00     0.043 C 
+ENDMDL
+REMARK VINA RESULT:    -4.132     11.052     14.476
+REMARK INTER + INTRA:         -17.730
+REMARK INTER:                  -8.795
+REMARK INTRA:                  -8.935
+REMARK UNBOUND:                -8.283
+REMARK  22 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C3_3 
+REMARK    2  A    between atoms: C4_4  and  C5_5 
+REMARK    3  A    between atoms: C5_5  and  C6_6 
+REMARK    4  A    between atoms: C6_6  and  C8_8 
+REMARK    5  A    between atoms: C11_11  and  C9_9 
+REMARK    6  A    between atoms: C11_11  and  C12_12 
+REMARK    7  A    between atoms: C12_12  and  C13_13 
+REMARK    8  A    between atoms: C14_14  and  C16_16 
+REMARK    9  A    between atoms: C16_16  and  C17_17 
+REMARK   10  A    between atoms: C17_17  and  C18_18 
+REMARK   11  A    between atoms: C19_19  and  C21_21 
+REMARK   12  A    between atoms: C21_21  and  C22_22 
+REMARK   13  A    between atoms: C22_22  and  C23_23 
+REMARK   14  A    between atoms: C24_24  and  C26_26 
+REMARK   15  A    between atoms: C26_26  and  C27_27 
+REMARK   16  A    between atoms: C27_27  and  C28_28 
+REMARK   17  A    between atoms: C29_29  and  C31_31 
+REMARK   18  A    between atoms: C31_31  and  C32_32 
+REMARK   19  A    between atoms: C32_32  and  C33_33 
+REMARK   20  A    between atoms: C34_34  and  C36_36 
+REMARK   21  A    between atoms: C36_36  and  C37_37 
+REMARK   22  A    between atoms: C37_37  and  C38_38 
+REMARK viewdock state: V
+HETATM    1  C21 ***     1      63.432  17.429 -12.401  1.00  0.00     0.031 C 
+HETATM    2  C19 ***     1      63.504  18.149 -13.668  1.00  0.00    -0.024 C 
+HETATM    3  C18 ***     1      62.593  18.145 -14.673  1.00  0.00    -0.087 C 
+HETATM    4  C20 ***     1      62.802  19.003 -15.842  1.00  0.00     0.043 C 
+HETATM    5  C17 ***     1      61.373  17.320 -14.663  1.00  0.00     0.037 C 
+HETATM    6  C16 ***     1      60.359  17.674 -15.787  1.00  0.00     0.031 C 
+HETATM    7  C14 ***     1      59.124  18.234 -15.243  1.00  0.00    -0.024 C 
+HETATM    8  C13 ***     1      58.008  17.572 -14.845  1.00  0.00    -0.087 C 
+HETATM    9  C15 ***     1      56.886  18.366 -14.338  1.00  0.00     0.043 C 
+HETATM   10  C12 ***     1      57.869  16.112 -14.894  1.00  0.00     0.037 C 
+HETATM   11  C11 ***     1      58.557  15.388 -13.700  1.00  0.00     0.031 C 
+HETATM   12  C9  ***     1      57.881  15.714 -12.448  1.00  0.00    -0.024 C 
+HETATM   13  C8  ***     1      58.302  16.535 -11.457  1.00  0.00    -0.087 C 
+HETATM   14  C10 ***     1      57.421  16.782 -10.309  1.00  0.00     0.043 C 
+HETATM   15  C6  ***     1      59.608  17.215 -11.457  1.00  0.00     0.037 C 
+HETATM   16  C5  ***     1      59.536  18.727 -11.081  1.00  0.00     0.031 C 
+HETATM   17  C4  ***     1      60.540  19.532 -11.769  1.00  0.00    -0.024 C 
+HETATM   18  C3  ***     1      60.331  20.587 -12.595  1.00  0.00    -0.088 C 
+HETATM   19  C7  ***     1      61.479  21.266 -13.204  1.00  0.00     0.043 C 
+HETATM   20  C2  ***     1      59.002  21.115 -12.937  1.00  0.00     0.029 C 
+HETATM   21  C1  ***     1      58.955  22.660 -12.976  1.00  0.00     0.010 C 
+HETATM   22  C22 ***     1      64.401  17.969 -11.307  1.00  0.00     0.037 C 
+HETATM   23  C23 ***     1      63.681  18.564 -10.158  1.00  0.00    -0.087 C 
+HETATM   24  C24 ***     1      63.644  19.891  -9.867  1.00  0.00    -0.024 C 
+HETATM   25  C25 ***     1      62.955  17.627  -9.291  1.00  0.00     0.043 C 
+HETATM   26  C26 ***     1      64.304  21.003 -10.549  1.00  0.00     0.031 C 
+HETATM   27  C27 ***     1      65.808  21.149 -10.188  1.00  0.00     0.037 C 
+HETATM   28  C28 ***     1      66.298  22.532 -10.321  1.00  0.00    -0.087 C 
+HETATM   29  C29 ***     1      67.491  22.962  -9.841  1.00  0.00    -0.024 C 
+HETATM   30  C30 ***     1      65.422  23.479 -11.016  1.00  0.00     0.043 C 
+HETATM   31  C31 ***     1      68.507  22.185  -9.137  1.00  0.00     0.031 C 
+HETATM   32  C32 ***     1      69.478  21.485 -10.130  1.00  0.00     0.037 C 
+HETATM   33  C33 ***     1      70.123  22.403 -11.086  1.00  0.00    -0.087 C 
+HETATM   34  C34 ***     1      69.989  22.300 -12.429  1.00  0.00    -0.024 C 
+HETATM   35  C35 ***     1      70.937  23.484 -10.524  1.00  0.00     0.043 C 
+HETATM   36  C36 ***     1      69.237  21.293 -13.165  1.00  0.00     0.031 C 
+HETATM   37  C37 ***     1      67.814  21.779 -13.552  1.00  0.00     0.037 C 
+HETATM   38  C38 ***     1      66.829  20.684 -13.577  1.00  0.00    -0.088 C 
+HETATM   39  C39 ***     1      65.551  20.843 -13.994  1.00  0.00    -0.029 C 
+HETATM   40  C41 ***     1      64.950  22.067 -14.493  1.00  0.00     0.036 C 
+HETATM   41  C40 ***     1      67.289  19.362 -13.131  1.00  0.00     0.043 C 
+ENDMDL
