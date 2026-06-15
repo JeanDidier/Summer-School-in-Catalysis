@@ -9,8 +9,8 @@ This repository contains:
 
 2. The folders that contain the material to analysis during the practicum session. 
 
-	a. ligand: contains the files for the cis(1,4)propene (smile C/C(C)=C\C by unit) to set up Molecular Dynamics (results are also provided) </br>
+	a. <b>ligand:</b> contains the files for the cis(1,4)propene (smile C/C(C)=C\C by unit) to set up Molecular Dynamics (results are also provided) </br>
 
-	b. protein: contains the files for the protein set up and docking calculations</br>
+	b. <b>protein</b>: contains the files for the protein set up and docking calculations</br>
 
-	c. docking: contains the results of the protein-ligand dockings with vina.</br>
+	c. <b>docking</b>: contains the results of the protein-ligand dockings with vina.</br>
